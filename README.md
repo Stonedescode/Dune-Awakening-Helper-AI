@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=E6A817&center=true&vCenter=true&width=1580&lines=DUNE+AWAKENING+HACK+2026;SPICE+•+SURVIVE+•+DOMINATE;CONQUER+ARRAKIS" alt="Dune Awakening Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4012cfa-e78f-4e75-a5c4-49354b108e4f" />
 </div>
 
 <br/>
